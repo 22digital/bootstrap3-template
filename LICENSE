@@ -1,10 +1,5 @@
 Copyright (c) 2017-2018 Justin Hartman <justin@hartman.me>
 
-All text contained in this repository may not be distributed and remains the
-copyright of Justin Hartman and Why Addicted. Permission is granted below to
-the source code but not to the text contained in the `index.html` or
-`blog.html` files.
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -14,6 +9,12 @@ to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+Any text contained in the Software may not be used, copied, modified, merged, 
+published, distributed, sublicensed or sold and may only be used, exclusively,
+by the copyright holder(s). Save for clarity sake, any content/text contained in 
+the index.html and blog.html files may not be used by any party other than the
+original copyright holder(s).
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
