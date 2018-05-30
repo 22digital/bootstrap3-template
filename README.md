@@ -21,7 +21,7 @@ This repo is a Bootstrap 3 Wireframe for the [whyaddicted.com website][whyaddict
  - [Placeholder](https://placeholder.com)
  - HolderJS [2.9.0+f2dkw](http://holderjs.com)
  - [Random User](https://randomuser.me)
- - imgIX [](https://www.imgix.com/)
+ - [imgIX](https://www.imgix.com/)
  
 ## Live Demo & Screenshots
 
@@ -46,7 +46,7 @@ The live demo can be found [over here][demo].
 
 
 [whyaddicted]: http://www.whyaddicted.com
-[demo]: https://whyaddicted-wireframe.22digital.tech/
+[demo]: https://bootstrap3-template.22digital.tech
 [home]: images/home.png
 [what]: images/what-we-do.png
 [how]: images/how-it-works.png
